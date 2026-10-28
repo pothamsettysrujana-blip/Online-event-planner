@@ -13,7 +13,7 @@ import RSVPConfirmation from "./RSVPConfirmation";
 import ProtectedRouter from "./ProtectedRouter";
 import Participants from "./Participants";
 
-import "./app.css";
+import "./App.css";
 
 function App() {
   const [participants, setParticipants] = useState([]);
